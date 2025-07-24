@@ -1,12 +1,18 @@
-## Hi there 👋
+# 🕊 쉼표, 여름을 쉬다
 
-<!--
+  <!-- HTML 엔터를 위한 공백 추가 -->
+![github 상단 이미지](https://github.com/쉼표/.github/blob/main/image/image.png)
+  <!-- HTML 엔터를 위한 공백 추가 -->
 
-**Here are some ideas to get you started:**
+## 🌿 무더운 여름, 우리 모두에겐 **쉼표**가 필요해요.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+쉼표는 더운 여름, 누구나 잠시 쉴 수 있는 공간을 찾아 연결해주는 플랫폼입니다.
+선의로 공간을 내어준 개인부터, 누구나 이용 가능한 공공시설까지—
+당신 근처의 **‘쉼’** 공간을 쉽게 찾고, 따뜻하게 머물 수 있도록 돕습니다.
+
+  <!-- HTML 엔터를 위한 공백 추가 -->
+
+> "잠깐의 그늘이, 누군가에겐 큰 위로가 될 수 있어요."
+
+---
+
