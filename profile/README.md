@@ -1,7 +1,7 @@
 # 🕊 쉼표, 여름을 쉬다
 
   <!-- HTML 엔터를 위한 공백 추가 -->
-![github 상단 이미지](https://github.com/쉼표/.github/blob/main/image/image.png)
+![github 상단 이미지](https://github.com/ShymPyo/.github/blob/main/image/banner.png?raw=true)
   <!-- HTML 엔터를 위한 공백 추가 -->
 
 ## 🌿 무더운 여름, 우리 모두에겐 **쉼표**가 필요해요.
